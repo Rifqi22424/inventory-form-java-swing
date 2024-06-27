@@ -1,3 +1,6 @@
+Screenshot Form
+![screenshot](https://github.com/Rifqi22424/inventory-form-java-swing/blob/main/src/screenshots/form.png)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
